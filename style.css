@@ -1,0 +1,50 @@
+h1{
+    font-size:50pxS
+}
+body{
+    font-family: 'Roboto', sans-serif;
+  
+}
+.x{
+    color:#4c00ff;
+}
+.y{
+    color:rgb(211, 9, 52);
+}
+h1{
+        font-size:50pxS
+    
+    
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left:2%;
+}
+.half-width img{
+    width: 100%;
+}
+.next-part{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left:2%;
+}
+.next-part img{
+    width: 100%;
+} 
+.button{
+    
+    background-color: #3800d1;
+    color: #df1b66;
+    width:500px;
+    height: 50px;
+    font-size: medium;
+    font: weight 900;
+    border:radius;
+
+}
